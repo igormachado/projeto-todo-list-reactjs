@@ -1,4 +1,4 @@
-<h1>Projeto to-do list</h1>
+<h1>Projeto todo list</h1>
 
 <h2>contém as seguintes funcionalidades:</h2>
 
