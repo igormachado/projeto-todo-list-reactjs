@@ -1,0 +1,20 @@
+.header {
+    width: auto;
+    height: 200px;
+    background: var(--gray-700, #0D0D0D);
+    align-items: center;
+    display: flex;
+}
+
+.header > div {
+    background: var(--gray-700, #0D0D0D);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 41.0625rem;
+    padding-right: 41.0625rem;
+    padding-top: 4.5rem;
+    padding-bottom: 5rem;
+}
+

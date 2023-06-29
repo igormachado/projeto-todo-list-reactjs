@@ -41,4 +41,6 @@ ternary operator que foi um desafio, mas conseguir fazer.
 
 <img title="a title" alt="Alt text" src="./src/assets/projeto-todo-list-01.png">
 <img title="a title" alt="Alt text" src="./src/assets/projeto-todo-list-02.png">
+
+
 # projeto-todo-list-reactjs

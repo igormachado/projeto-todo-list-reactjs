@@ -1,0 +1,58 @@
+.containerTaskList {
+    padding-left: 22rem;
+    padding-right: 22rem;
+    padding-top: 1.5rem;
+    margin-top: -12px;  
+
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    justify-items: flex-start;
+    color: var(--gray-100);
+    align-items: center;
+    background: var(--gray-500, #262626);
+    box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.06);
+    margin-top: 12px;
+    padding: 16px;
+
+}
+
+
+.circleImg {
+    width: 24px;
+    height: 24px;
+    color: var(--blue-100);
+    margin-right: 12px;
+}
+
+.checkImg {
+    width: 24px;
+    height: 24px;
+    color: var(--purple-200);
+    margin-right: 12px;
+}
+
+.content p {
+    display: flex;
+    flex-direction: column;
+    flex: 1 0 0;
+    color:  var(--gray-100);
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+.content  button {
+    border: none;
+    cursor: pointer;
+}
+
+  
+.trashImg {
+    width: 24px;
+    height: 24px;
+    color: var(--gray-300);
+    margin-left: 10px; 
+
+}

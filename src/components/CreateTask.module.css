@@ -1,0 +1,123 @@
+.criarTarefa {
+    display: flex;
+    /* align-items: center; */
+    padding-left: 22rem;
+    padding-right: 22rem;
+    padding-bottom: 6.6875rem;
+    width: 100%;
+    height: auto;
+
+}
+
+.criarTarefa > input {
+    /* display: flex; */
+    padding: 1rem;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    flex: 1 0 0;
+    border-radius: 0.5rem;
+    border: 1px solid var(--gray-700, #0D0D0D);
+    background: var(--gray-500, #262626);
+    color: var(--gray-300);
+   
+}
+
+.criarTarefa > button {
+    display: flex;
+    padding: 0.875rem;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    
+
+    border-radius: 0.5rem;
+    background: var(--blue-dark);
+    color: var(--gray-100);
+    margin-left: 0.5rem;
+}
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+span {
+    display: flex;
+
+    color: var(--gray-100);
+}
+
+.plusIcon {
+    background: var(--blue-dark);
+    width: 1rem;
+    height: 1rem;
+}
+
+
+.container {
+    color: var(--white);
+    display: flex;
+    
+}
+
+.headerContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+    
+   
+
+}
+
+.createdTask {
+    display: flex;
+    align-items: center;
+    padding-left: 22rem;
+    padding-right: 22rem;
+    justify-content: space-between;
+    color: var(--blue-100);
+    width: 100%;
+    height: auto;
+   
+}
+
+.createdTask > span {
+    display: flex;
+    padding: 2px 8px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+    border-radius: 999px;
+    background: var(--gray-400);
+    margin-left: 6px;
+    color: var(--gray-100)
+}
+
+.doneTask {
+    display: flex;
+    align-items: center;
+    padding-left: 15rem;
+    justify-content: space-between;
+    color: var(--blue-100);
+    
+    
+}
+
+.doneTask > span {
+    display: flex;
+    padding: 2px 8px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+
+
+    border-radius: 999px;
+    background: var(--gray-400);
+    margin-left: 6px;
+    color: var(--gray-100)
+}
