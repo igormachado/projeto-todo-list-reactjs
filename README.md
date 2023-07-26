@@ -12,7 +12,7 @@ Utilizei apenas o React neste projeto que é bem desafiador.
 
 Neste todo list, temos o seguinte:
 
-- Uma listade tarefas.
+- Uma listagem tarefas.
 - Opção de marcar e desmarcar uma tarefa concluída.
 - Remover uma tarefa da lista.
 - Mostra quantas tarefas temos e quantas já foram resolvidas.
